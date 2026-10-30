@@ -12,4 +12,3 @@ The dataset files are not included in this repository because of their size.
 2. Extract the downloaded files.
 3. Place the required CSV files in the project directory, following the filenames and paths used in the notebook.
 
-Please check the notebook for the exact dataset filenames required.
